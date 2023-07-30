@@ -13,10 +13,10 @@
     
     <!-- For iOS -->
     <item>
-        <title>Version 2.0</title>
+        <title>Version 3.0</title>
         <description>Minors update and improvement</description>
         <pubDate>Sat, 30 July 2023 15:20:11 +0000</pubDate>
-        <enclosure url="https://beta.itunes.apple.com/v1/app/6451244016" sparkle:version="2.0.0" sparkle:os="iOS" />
+        <enclosure url="https://beta.itunes.apple.com/v1/app/6451244016" sparkle:version="3.0.0" sparkle:os="iOS" />
     </item>
     
   </channel>
