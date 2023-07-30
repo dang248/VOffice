@@ -9,7 +9,6 @@
         <description>Minors update and improvement</description>
         <pubDate>Sat, 30 Jul 2023 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="2.0.0" sparkle:os="android" />
-        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     
     <!-- For iOS -->
