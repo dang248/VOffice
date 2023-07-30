@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>Update app</title>
+    
+    <!-- For Android -->
     <item>
         <title>Version 2.0</title>
-        <description>Cập nhật nhé baby</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+        <description>Minors update and improvement</description>
+        <pubDate>Sat, 30 Jul 2023 15:20:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="2.0.0" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
+    
+    <!-- For iOS -->
+    <item>
+        <title>Version 2.0</title>
+        <description>Minors update and improvement</description>
+        <pubDate>Sat, 30 July 2023 15:20:11 +0000</pubDate>
+        <enclosure url="https://beta.itunes.apple.com/v1/app/6451244016" sparkle:version="2.0.0" sparkle:os="iOS" />
+    </item>
+    
   </channel>
 </rss>
