@@ -5,10 +5,10 @@
     
     <!-- For Android -->
     <item>
-        <title>Version 1.0</title>
+        <title>Version 4.0</title>
         <description>Minors update and improvement</description>
         <pubDate>Sat, 30 Jul 2023 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.0" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="4.0.0" sparkle:os="android" />
     </item>
     
     <!-- For iOS -->
